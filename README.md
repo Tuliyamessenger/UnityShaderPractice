@@ -1,5 +1,6 @@
-写英文好麻烦啊，不写了。
 自从看了《Unity Shader入门精要》后对Shader产生了极大兴趣，这里主要是记录一些练习时费了些时间才搞明白的要点。顺便为找工作弄一些作品展示。
+
+写英文好麻烦啊，不写了。
 
 ## [WaterWithWave](https://github.com/Tuliyamessenger/UnityShaderPractice/tree/master/WaterWithWave) 
 Update 2020.8.7 A simple water effect, can look thought water and see the reflection(limit use). Can custom circle waves on water.
